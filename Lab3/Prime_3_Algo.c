@@ -88,7 +88,7 @@ bool method3(int num)
 
 void main() 
 {
-printf("Enter 10 numbers\n");
+printf("Enter 10 numbers greater than 1:\n");
 int arr[10];
 for(int i = 0;i<10;i++)
 scanf("%d",&arr[i]);
